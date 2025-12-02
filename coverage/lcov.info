@@ -13,7 +13,6 @@ LF:5
 LH:4
 BRDA:3,0,0,1
 BRDA:4,1,0,0
-BRDA:4,1,1,1
-BRF:3
-BRH:2
+BRF:2
+BRH:1
 end_of_record
